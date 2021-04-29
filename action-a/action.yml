@@ -9,7 +9,7 @@ inputs:
 
   MY_NAME:
     
-    desription: "Who to greet"
+    description: "Who to greet"
     
     required: true
     
