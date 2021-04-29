@@ -9,7 +9,7 @@ jobs:
   
     name: Hello world action
     
-    runs: ubuntu-latest
+    runs-on: ubuntu-latest
     
     steps:
     
